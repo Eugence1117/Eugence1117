@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Eugence1117
-- 🌱 Bachelor's degree in Software Systems Development. 
+- 🌱 Bachelor's degree in Software Systems Development.
+- 2 Years experience in Full Stack Development (Mobile + Web)
+- 2.5 Years experience in Frontend Development (Web)
 - #️⃣ #React Native #React #Svelte #Django #Spring Boot #Web Developer #Mobile Application Developer
 - 📫 eugencelim@gmail.com
 
